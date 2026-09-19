@@ -1,5 +1,11 @@
 <div align="center">
 
+
+<img src="./Github%20banner.png" width="100%" alt="Adityaraj Lonkar">
+
+<br><br>
+
+
 # 👋 Hey, I'm ADI
 
 ### 💻 Developer | 🎓 MCA Student | 🚀 Tech Enthusiast
