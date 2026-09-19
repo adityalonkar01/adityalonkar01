@@ -1,7 +1,7 @@
 <div align="center">
 
 
-<img src="./Github%20banner.png" width="100%" alt="Adityaraj Lonkar">
+<img src="./assets/header.png" width="100%" alt="Adityaraj Lonkar">
 
 <br><br>
 
