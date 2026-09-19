@@ -5,8 +5,14 @@
 
 <br><br>
 
+<!-- Animated Neon Introduction -->
 
-# 👋 Hey, I'm ADI
+<a href="https://github.com/adityalonkar01">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+ADI+%F0%9F%91%8B;MCA+Student+%7C+Developer;Building+Projects+%7C+Learning+Technology;Java+%7C+Python+%7C+Web+%7C+AI" />
+</a>
+
+<br>
+<!--# 👋 Hey, I'm ADI-->
 
 ### 💻 Developer | 🎓 MCA Student | 🚀 Tech Enthusiast
 
